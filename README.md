@@ -1,4 +1,4 @@
-# my-editor-plugings
+# My-Editor-pluginzzzz
 
 ## vs code 
 - Theme->Material Theme Ocean
